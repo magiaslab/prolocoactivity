@@ -1,7 +1,7 @@
 <?php
 
 // parametri
-$token_accesso_pagina = 'TOKEN_ACCESSO';
+$token_accesso_pagina = 'EAAGzB1Cp5G0BAKbrn6cp5fbtxaSgb1LHLryP2QAWafXIMBTHsYB8yCRG6vFsUtvvw5iJZCN869O9t1QlAKs8Ptlb5DSxkGNb8l5hz51ZCWNTIohock59CpJDhS3or2NaR5i1yPrIdHhC2zKCxxOfzkHzsgSj31a16tH1sAGtRhOsqm3utw8vJcsFntFMgZD';
 $token_verifica = 'fb_bot';
 
 // Convalida il token di verifica necessario per configurare il webhook
